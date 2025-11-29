@@ -1,0 +1,10 @@
+<div class="grid-container">
+    <figure>
+        <img src="your-image-1.jpg" alt="Mô tả hình ảnh 1">
+        <figcaption>Chú thích 1</figcaption>
+    </figure>
+    <figure>
+        <img src="your-image-N.jpg" alt="Mô tả hình ảnh cuối cùng">
+        <figcaption>Chú thích cuối</figcaption>
+    </figure>
+</div>
